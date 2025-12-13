@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "K:\\Online-Groceries-Store\\DoAnCNPM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|K:\\Online-Groceries-Store\\DoAnCNPM\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|k:\\online-groceries-store\\doancnpm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|k:\\online-groceries-store\\doancnpm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|K:\\Online-Groceries-Store\\DoAnCNPM\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D9224592-ACFF-4B8E-8247-2018EA4A04B0}|DoAnCNPM.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "K:\\Online-Groceries-Store\\DoAnCNPM\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAPIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAPIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-11T13:45:36.938Z",
               "EditorCaption": ""
